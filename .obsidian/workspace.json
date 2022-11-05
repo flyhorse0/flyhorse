@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "de1e1e2a11474352",
+    "type": "split",
+    "children": [
+      {
+        "id": "18fe7d0fb5ba43e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3814ccb64b67300a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github/github教程.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbc0e2ecb2b16b14",
+    "type": "split",
+    "children": [
+      {
+        "id": "36570c51f76293f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0572db9e1370698a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2893224b2859b756",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e0626badb527b03",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e661d0b455322194",
+    "type": "split",
+    "children": [
+      {
+        "id": "56314ae619074244",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61418f04900d14cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "github/github教程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3efa485e4caec35a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "github/github教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5800b097a517482",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14d45a539488601a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "github/github教程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3814ccb64b67300a",
+  "lastOpenFiles": [
+    "CTF学习笔记/1、Misc/ciphey 解密工具.md",
+    "github/github教程.md",
+    "CTF学习笔记/1、Misc/常见文件头.md",
+    "CTF学习笔记/media/181047436-7a829280-379b-4711-bc60-42742f8e25fe.png",
+    "CTF学习笔记/docker/ciphey自动解密.md",
+    "CTF学习笔记/adb命令.md"
+  ]
+}
